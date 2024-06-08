@@ -1,0 +1,9 @@
+* Webpack (imports / exports)
+ - babel (help js works for old browsers)
+ - SCSS
+ - Eslint
+ - 2 modes:
+   - Dev (Dev Server - hot reload for code and styles, SourceMaps, Eslint, Not Minified JS & CSS)
+   - Prod (Minified code)
+* GIT
+ - Sonar
